@@ -1,3 +1,5 @@
+<h2> EatFit </h2>
+
 HealthApp is a web-based application that suggests you recipes based on the calorie requirement and keyword specified by the user. 
 The keyword can be an ingredient name  like eggs or any adjective related to the recipes; example : green. We have provided a filter based on the calorie. 
 The user can input a calorie range and the recipes suggested will fall in that range. 
